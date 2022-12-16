@@ -68,7 +68,7 @@
   width: 200px;
   margin: auto;
   margin-top: 20px;
-  margin-bottom: 58px;
+  margin-bottom: 45px;
 }
 .primary_explanation2 {
   font-size: 0.7rem;
@@ -140,11 +140,19 @@
     top: 100px;
     left: 40px;
   }
+  .primary_explanation1 {
+    font-size: 1.2rem;
+    width: 250px;
+  }
   .primary_form {
     width: min(100%, 806px);
     height: 180px;
   }
   .primary_inputBox {
     width: min(75%, 590px);
+  }
+  .primary_title {
+    font-size: 2.8rem;
+    width: 500px;
   }
 }/*# sourceMappingURL=style.css.map */
